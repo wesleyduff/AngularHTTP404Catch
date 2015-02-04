@@ -1,0 +1,21 @@
+/*
+values
+*/
+@import url(../../../bower_components/angular/angular-csp.css);
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333; }
+
+/* styles */
+a {
+  color: #065FA3; }
+
+a:hover {
+  text-decoration: none;
+  color: #065FA3; }
+
+a:visited {
+  text-decoration: none;
+  color: #333; }
+
+/*# sourceMappingURL=custom.css.map */

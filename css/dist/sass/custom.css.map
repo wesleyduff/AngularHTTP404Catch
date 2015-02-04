@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;AAGQ,8DAAmD;ACC3D,IAAK;EACH,IAAI,EAAE,0BAAgB;EACtB,KAAK,EALS,IAAI;;;ADQpB,CAAE;EACD,KAAK,EAJC,OAAO;;AAMd,OAAQ;EACP,eAAe,EAAC,IAAI;EACpB,KAAK,EARC,OAAO;;AAUd,SAAU;EACT,eAAe,EAAC,IAAI;EACpB,KAAK,ECjBU,IAAI",
+"sources": ["../../sass/custom.scss","../../sass/colors.scss"],
+"names": [],
+"file": "custom.css"
+}

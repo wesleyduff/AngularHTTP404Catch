@@ -7,8 +7,9 @@ Get started quick with angularJS.
 		- install npm modules by envoking npm install.
 	- run tests to prove everything is working
 		- $ grunt
+	* NOTE : Gulp is not used here right now
 	- run gulp to package everything up for production.
-		- $ gulp
+		- $ gulp  - 
 
 The reason I created this boilerplate for angularJS : When I want to create a new site or app I do not want to spend my time setting up the bits and pieces for each instance. Performing a git clone speeds up my development and I have something to show the client before the day is over.
 
